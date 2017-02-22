@@ -1,0 +1,290 @@
+Key;de_DE;fr_FR;PHP;JS
+Register;Registrieren;;IO_Core;
+Login;Anmelden;;IO_Core;app.user
+Logout;Abmelden;;IO_Core;
+Online-Documentation;Online-Dokumentation;;IO_Core;
+Support;Support;;IO_Core;
+Administration;Administration;;IO_Core;
+Help;Hilfe;;IO_Core;
+User unknown;Benutzer unbekannt;;IO_Core;
+Wrong password;Ungültiges Passwort;;IO_Core;
+Guests;Gäste;;Model_UsergroupTable;
+Visitor;Besucher;;Model_UserTable;
+January;Januar;;Date;Ext
+February;Februar;;Date;Ext
+March;März;;Date;Ext
+April;April;;Date;Ext
+May;Mai;;Date;Ext
+June;Juni;;Date;Ext
+July;Juli;;Date;Ext
+August;August;;Date;Ext
+September;September;;Date;Ext
+October;Oktober;;Date;Ext
+November;November;;Date;Ext
+December;Dezember;;Date;Ext
+Jan;Jan;;Date;Ext
+Feb;Feb;;Date;Ext
+Mar;Mrz;;Date;Ext
+Apr;Apr;;Date;Ext
+Jun;Jun;;Date;Ext
+Jul;Jul;;Date;Ext
+Aug;Aug;;Date;Ext
+Sep;Sep;;Date;Ext
+Oct;Okt;;Date;Ext
+Nov;Nov;;Date;Ext
+Dec;Dez;;Date;Ext
+Monday;Montag;;Date;Ext
+Tuesday;Dienstag;;Date;Ext
+Wednesday;Mittwoch;;Date;Ext
+Thursday;Donnerstag;;Date;Ext
+Friday;Freitag;;Date;Ext
+Saturday;Samstag;;Date;Ext
+Sunday;Sonntag;;Date;Ext
+Mon;Mo;;Date;Ext
+Tue;Di;;Date;Ext
+Wed;Mi;;Date;Ext
+Thu;Do;;Date;Ext
+Fri;Fr;;Date;Ext
+Sat;Sa;;Date;Ext
+Sun;So;;Date;Ext
+Transmitting data...;Übertrage Daten...;;;Ext
+{0} records selected;{0} Datensätze ausgewählt;;;Ext
+Close this tab;Dieses Register schliessen;;;Ext
+Please wait...;Bitte warten...;;;Ext
+Value is not valid;Der Wert ist ungültig;;;Ext
+OK;OK;;;Ext
+Cancel;Abbrechen;;;Ext
+Yes;Ja;;;Ext
+No;Nein;;;Ext
+Today;Heute;;;Ext
+Date is before the minimum date;Das Datum liegt vor dem Minimaldatum;;;Ext
+Date is after the maximum date;Das Datum liegt nach dem Maximaldatum;;;Ext
+Next month (Ctrl+Right);Nächster Monat (Ctrl+Rechts);;;Ext
+Previous month (Ctrl+Left);Vorheriger Monat (Ctrl+Links);;;Ext
+Select month (Ctrl+Up/Down to select year);Monat wählen (Ctrl+Hoch/Runter für Jahreswahl);;;Ext
+Today (Space);Heute (Leerschlag);;;Ext
+Page;Seite;;;Ext
+of {0};von {0};;;Ext
+First page;Erste Seite;;;Ext
+Last page;Letzte Seite;;;Ext
+Refresh;Aktualisieren;;;Ext
+Show record {0} - {1} of {2};Eintrag {0} - {1} von {2};;;Ext
+No records available;Kein Datensatz verfügbar;;;Ext app.tools
+This field should contain at least {0} characters;Dieses Feld muss mindestens {0} Zeichen enthalten;;;Ext
+This field should contain at most {0} characters;Dieses Feld darf höchstens {0} Zeichen enthalten;;;Ext
+This field can not be empty;Dieses Feld darf nicht leer sein;;;Ext
+Value must be at least {0};Der Wert muss mindestens {0} betragen;;;Ext
+Value is at most {0};Der Wert darf höchstens {0} betragen;;;Ext
+{0} is not a number;{0} ist keine Zahl;;;Ext
+not allowed;Nicht erlaubt;;;Ext
+Date must be after {0};Das Datum muss nach {0} liegen;;;Ext
+Date must be before {0};Das Datum muss vor {0} liegen;;;Ext
+{0} is not a valid date. Format must match {1};{0} ist kein gültiges Datum. Das Format muss {1} entsprechen;;;Ext
+Loading...;Lade Daten...;;;Ext
+This field should contain an email-address (user@domain.com);Dieses Feld muss eine Email-Adresse enthalten (name@domain.com);;;Ext
+This field should contain an URL (http://www.domain.com);Dieses Feld muss eine URL enthalten (http://www.domain.com);;;Ext
+This field should only contain letters and underscore;Dieses Feld darf nur Zeichen und Unterstrich enthalten;;;Ext
+This field should only contain number, letters and underscore;Dieses Feld darf nur Zeichen, Zahlen und Unterstrich enthalten;;;Ext
+Please enter URL for hyperlink;Bitte eine URL für Hyperlink eingeben;;;Ext
+Bold (Ctrl+B);Fett (Ctrl+B);;;Ext
+Switches bold for selected text;Ändert die Fettschrift für gewählten Text;;;Ext
+Italic (Ctrl+I);Kursiv (Ctrl+I);;;Ext
+Switches italic for selected text;Ändert die Kursivschrift für gewählten Text;;;Ext
+Underline (Ctrl+U);Unterstrichen (Ctrl+U);;;Ext
+Switches underline for selected text;Ändert die Unterstreichung für gewählten Text;;;Ext
+Enlarge size;Vergrössern;;;Ext
+Enlarge fontsize;Vergrössert die Schrift;;;Ext
+Reduce size;Verkleinern;;;Ext
+Reduces fontsize;Verkleinert die Schrift;;;Ext
+Backcolor;Hintergrundfarbe;;;Ext
+Change backcolor of selected text;Ändert die Hintergrundfarbe für gewählten Text;;;Ext
+Forecolor;Schriftfarbe;;;Ext
+Change color of selected text;Ändert die Schriftfarbe für gewählten Text;;;Ext
+Align left;Linksbündig;;;Ext
+Set text-alignment leftbound;Text linksbündig anordnen;;;Ext
+Align center;Zentrieren;;;Ext
+Set text-alignment centered;Text zentrieren;;;Ext
+Align right;Rechtsbündig;;;Ext
+Set text-alignment rightbound;Text rechtsbündig anordnen;;;Ext
+Enumeration list;Aufzählungsliste;;;Ext
+Start an enumeration list;Startet eine Aufzählungsliste;;;Ext
+Numbered list;Numerierte Liste;;;Ext
+Starts a numbered list;Startet eine numerierte Liste;;;Ext
+Hyperlink;Hyperlink;;;Ext
+Create a hyperlink from selected text;Erzeuge einen Hyperlink mit dem ausgewählten Text;;;Ext
+Edit source;Quellcode bearbeiten;;;Ext
+Change to edit sourcetext;Zur Bearbeitung des Quelltextes wechseln;;;Ext
+Sort ascending;Aufsteigend sortieren;;;Ext
+Sort descending;Absteigend sortieren;;;Ext
+Lock column;Spalte sperren;;;Ext
+Unlock column;Spalte entsperren;;;Ext
+Columns;Spalten;;;Ext
+(None);(Keine);;;Ext
+Group this field;Dieses Feld gruppieren;;;Ext
+Show in groups;Gruppieren;;;Ext
+Name;Name;;;Ext app.access app.customermanagement
+Value;Wert;;;Ext
+Drag to change size;Ziehen um Grösse zu verändern;;;Ext
+Drag to change size. Doubleclick to hide Panel;Ziehen um Grösse zu verändern. Doppelclick um Panel zu verstecken;;;Ext
+Time must be greater or equal {0};Zeit muss grösser oder gleich {0} sein;;;Ext
+Time must be less or equal {0};Zeit muss kleiner oder gleich {0} sein;;;Ext
+{0} is not a valid time;{0} ist keine gültige Zeit;;;Ext
+Information;Information;;;app.tools
+Warning;Warnung;Alerte;;app.tools app.logPanel
+Error;Fehler;;;app.tools app.logPanel
+Transmitting data...;Übertrage Daten...;;;app.tools
+Login successful;Anmeldung erfolgreich;;;app.user
+Please enter username and password;Bitte Benutzername und Passwort eintragen;;;app.user
+Username;Benutzername;;;app.user app.access
+Password;Passwort;;;app.user app.access
+Unnamed;Unbenannt;;;app.layout
+Core-Module;Basismodul;;Module_Core;
+Includes the basic system-functionality;Enthält die Basis-Systemfunktionalität;;Module_Core;
+Usermanagement;Benutzerverwaltung;;Module_Core;app.access
+Access to the central security point. Show/edit users and accessrights.;Zugriff zum zentralen Sicherheitspunkt. Zeige/bearbeite Benutzer und Zugriffsrechte;;Module_Core;
+Administrators;Administratoren;;Model_UsergroupTable;
+Members of this group will have full administrative rights;Mitglieder dieser Gruppe haben volle administrative Rechte;;Model_UsergroupTable;
+All unidentified users will operate as guests;Alle nicht-identifizierten Benutzer operieren als Gäste;;Model_UsergroupTable;
+Users;Benutzer;;Model_UsergroupTable IO_Access;app.access
+Members of this group will have normal userrights;Mitglieder dieser Gruppe haben normale Zugriffsrechte;;Model_UsergroupTable;
+Administrator;Administrator;;Model_UserTable;
+Search;Suche;;;app.tools
+Enter searchtext and type [Enter];Suchtext mit [Enter] abschliessen;;;app.tools
+Select all;Alle auswählen;;;app.tools
+Changes successfully saved;Änderungen erfolgreich gespeichert;;;app.tools
+Transmitting data…;Übertrage Daten…;;;app.tools
+Code;Code;;;app.access app.customermanagement
+Usergroup;Benutzergruppe;;;app.access
+Description;Beschreibung;;;app.access app.customermanagement
+Access denied;Zugriff verweigert;;Util IO_Select;
+Usergroup not available;Benutzergruppe nicht verfügbar;;IO_Access;
+This usergroup is reserved and may not be changed;Diese Benutzergruppe ist reserviert und darf nicht verändert werden.;;IO_Access;
+Add record;Datensatz anlegen;;;app.tools
+Save;Speichern;;;app.tools
+Successfully saved;Erfolgreich gespeichert;;;app.tools
+Add usergroup;Benutzergruppe anlegen;;;app.access
+Are you sure?;Sind Sie sicher?;;;app.tools
+Code may not be empty;Code darf nicht leer sein;;IO_Access;
+Code already exists;Code existiert bereits;;IO_Access IO_Customermanagement;
+Group may not be empty;Die Gruppe darf nicht leer sein;;IO_Access;
+Group already exists;Die Gruppe existiert bereits;;IO_Access;
+Login required;Anmeldung erforderlich;;Util;
+Remove usergroup;Benutzergruppe entfernen;;;app.access
+Remove record;Datensatz entfernen;;;app.tools
+No record selected;Kein Datensatz gewählt;;;app.tools
+This record is reserved and cannot be removed.;Dieser Datensatz ist reserviert und darf nicht entfernt werden.;;;app.tools
+Successfully deleted;Erfolgreich gelöscht;;;app.tools
+Unknown error occured;Unbekannter Fehler aufgetreten;;;app.tools
+Proceed?;Fortfahren?;;;app.tools
+This usergroup is reserved and may not be removed;Diese Benutzergruppe ist reserviert und darf nicht gelöscht werden.;;IO_Access;
+Usergroup not found;Benutzergruppe nicht gefunden;;IO_Access;
+Usergroup contains users.|Deletion not allowed.;Benutzergruppe enthält Benutzer.|Löschen nicht erlaubt.;;IO_Access;
+Usergroup succesfully deleted;Benutzergruppe erfolgreich gelöscht;;IO_Access;
+Duplicate usergroup;Benutzergruppe duplizieren;;;app.access
+Create copy;Erzeuge Kopie;;;app.tools
+Copy successfully created;Kopie erfolgreich angelegt;;;app.tools
+Copy;Kopie;;Model_Usergroup;
+Copy of {0};Kopie von {0};;Model_Usergroup;
+Excel-Report;Excel-Bericht;;;app.tools
+User- & Accessrights;Benutzer- und Zugriffsrechte;;IO_Access;
+Usergroups;Benutzergruppen;;IO_Access;
+Group;Gruppe;;IO_Access;
+Email;Email;;;app.access
+Language;Sprache;;;app.access
+Locale;Lokalisierung;;;app.access
+Last login;Letzte Anmeldung;;;app.access
+# Logins;# Anmeldungen;;;app.access
+Active from;Aktiv von;;;app.access
+Active to;Aktiv bis;;;app.access
+ERROR;FEHLER;ERREUR;IO_Select;
+Code must be lowercase;Code muss kleingeschrieben werden.;;IO_Access;
+Usergroup successfully deleted;Benutzergruppe erfolgreich gelöscht.;;IO_Access;
+id;id;;IO_Access IO_Customermanagement;app.access app.customermanagement
+Code;Code;;IO_Access IO_Customermanagement IO_Systemmanagement;
+Name;Name;;IO_Access IO_Customermanagement IO_Systemmanagement;
+Description;Beschreibung;;IO_Access IO_Customermanagement IO_Systemmanagement;
+Usergroup;Benutzergruppe;;IO_Access IO_Systemmanagement;
+Loginname;Loginname;;IO_Access;
+Username;Benutzername;;IO_Access;
+Email;Email;;IO_Access;
+Language;Sprache;;IO_Access;
+Locale;Lokalisierung;;IO_Access;
+Lastlogin;Letzte Anmeldung;;IO_Access;
+active_from;Aktiv von;;IO_Access;
+active_to;Aktiv bis;;IO_Access;
+Username may not be empty.;Benutzername darf nicht leer sein.;;IO_Access;
+Username already exists.;Benutzername existiert bereits.;;IO_Access;
+Username must be lowercase;Benutzername muss kleingeschrieben werden.;;IO_Access;
+Name may not be empty.;Name darf nicht leer sein.;;IO_Access IO_Customermanagement;
+Password may not be empty.;Password darf nicht leer sein.;;IO_Access;
+A user with this name is already active.;Ein Benutzer mit diesem Namen ist bereits aktiv.;;IO_Access;
+User successfully deleted;Benutzer erfolgreich gelöscht.;;IO_Access IO_Customermanagement;
+Logincount;Anzahl Anmeldungen;;IO_Access;
+Code is not available;Code ist nicht verfügbar.;;IO_Access;
+Name is not available;Name ist nicht verfügbar.;;IO_Access;
+Description is not available;Beschreibung ist nicht verfügbar.;;IO_Access;
+Accessrights;Zugriffsrechte;;IO_Access;
+Access;Zugriff;;IO_Access;
+This syntax is not possible.;Diese Schreibweise ist nicht möglich.;;IO_Customermanagement;
+Code must begin with a Letter;Code must mit einem Buchstaben beginnen.;;IO_Customermanagement;
+DB already exists;DB existiert bereits;;IO_Customermanagement;
+Name may not be empty;Name darf nicht leer sein;;IO_Customermanagement;
+Name already exists;Name existiert bereits;;IO_Customermanagement;
+You delete all customer datas.;Sie löschen alle Kundendaten.;;IO_Customermanagement;
+Customere successfully deleted;Kunde erfolgreich gelöscht;;IO_Customermanagement;
+Database;Datenbank;;IO_Customermanagement;
+Customer may not be empty;Kunde darf nicht leer sein;;IO_Customermanagement;
+User may not be empty;Benutzer darf nicht leer sein;;IO_Customermanagement;
+Role may not be empty;Rolle darf nicht leer sein;;IO_Customermanagement;
+A Memberrole for your selection already exists;Es existiert bereits eine Kundenzuweisung für diesen Benutzer;;IO_Customermanagement;
+You delete this customermember;Sie löschen diese Benutzerzuweisung;;IO_Customermanagement;
+Customer-Members;Kunden - Benutzer;;IO_Customermanagement;
+Members;Benutzer;;IO_Customermanagement;
+User;Benutzer;;IO_Customermanagement IO_Systemmanagement;
+Role;Rolle;;IO_Customermanagement;
+registration error field empty name;Registrierungsfehler Feld Name ist leer;;IO_Registration;
+registration error field invalid email;Registrationsfehler Email Adress unbrauchbar;;IO_Registration;
+red registration subject internal notification;RED Registrierung Betreff interne Benachrichtigung;;IO_Registration;
+registration email text internal notification {name},{email},{phone},{company},{comments};Registrierung E-Mail text interne Benachrichtigung {name},{email},{phone},{company},{comments};;IO_Registration;
+red registration subject to registrant;RED Registrierung Betreff An die Registierten;;IO_Registration;
+registration email text to registrant {name},{email},{phone},{company},{comments};Registrierungs Email  text an die Registrierten {name},{email},{phone},{company},{comments};;IO_Registration;
+Modules;Module;;IO_Systemmanagement;
+Active;Aktiv;Actif;IO_Systemmanagement Util_State;
+Sort;Sort;;IO_Systemmanagement;
+Date;Datum;;IO_Systemmanagement;
+Host;Host;;IO_Systemmanagement;
+Agent;Agent;;IO_Systemmanagement;
+{0} cleared by {1};{0} gelöscht von {1};;IO_Systemmanagement;
+You could not delete your own Session;Sie können ihre eigenen Session nicht löschen;;IO_Systemmanagement;
+Session successfully deleted;Session erfolgreich gelöscht;;IO_Systemmanagement;
+Remove user;Benutzer löschen;;;app.access
+Allows users to switch between all and active Users';Erlaubt es dem Benutzer zwischen aktiven und allen Benutzern zu wechseln;;;app.access
+Show only active;Nur aktive zeigen;;;app.access
+Show all;Alle zeigen;;;app.access
+User;Benutzer;;;app.access app.customermanagement
+Date;Datum;;;app.access
+Host;Host;;;app.access
+Agent;Agent;;;app.access
+Accessobjects;Zugriffsrecht;;;app.access
+bool;bool;;;app.access
+Add Customer;Kunde hinzufügen;;;app.customermanagement
+Remove customer;Kunde löschen;;;app.customermanagement
+Customers;Kunden;;;app.customermanagement
+Customermember;Memberzuweisungen;;;app.customermanagement
+Customer;Kunde;;IO_Customermanagement;app.customermanagement
+Role;Rolle;;;app.customermanagement
+Add Memberrole;Memberzuweisung hinzufügen;;;app.customermanagement
+Memberrole;Memberzuweisung;;;app.customermanagement
+Remove memberrole;Memberzuweisung löschen;;;app.customermanagement
+Customer-Managment;Kunden-Management;;;app.customermanagement
+Invalid upload information;Ungültige Upload-Informationen;Informations de chargement non valables;IO_Dropzone;
+Error occured during upload;Während des Uploads ist ein Fehler aufgetreten;Une erreur est survenue pendant le chargement;IO_Dropzone;
+Could not archive upload-file. See debug-log for further information.;Konnte hochgeladene Datei nicht archivieren. Siehe Debug-Protokoll für ausführlichere Informationen;Le fichier chargé n’a pas pu être archivé. Voir les informations détaillées dans le journal de débogage;IO_Dropzone;
+Invalid Protocol;Ungültiges Protokoll;Protocole non valide;;app.tools
+Canceled;Abgebrochen;Annulé;Util_State;
+Missing;Vermisst;Manquant;Util_State;
+Warnings;Warnungen;Alertes;;app.logPanel
+Errors;Fehler;Erreurs;;app.logPanel
+Memory;Speicher;Mémoire;;app.logPanel
+Owner;Eigentümer;Propriétaire;;app.logPanel
+Inactive;Inaktiv;Inactif;Util_State;

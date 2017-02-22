@@ -1,0 +1,145 @@
+/********************
+ ***		x-icon		***
+ ********************/
+.x-icon {
+	background-image:url('../img/xtools.png') !important;
+	background-repeat:no-repeat;
+	width:16px !important;
+	height:16px !important;
+}
+.x-icon-customer					{background-image:url('../img/xtools2.png') !important; background-position:-16px 0px !important}
+.x-icon-customer:hover		{background-image:url('../img/xtools2.png') !important; background-position:-32px 0px !important}
+
+.x-icon-ok					{background-position:-16px 0px !important;}			.x-icon-ok:hover					{background-position:-32px 0px !important;}
+.x-icon-cancel			{background-position:-16px -16px !important;}		.x-icon-cancel:hover			{background-position:-32px -16px !important;}
+.x-icon-add					{background-position:-16px -32px !important;}		.x-icon-add:hover					{background-position:-32px -32px !important;}
+.x-icon-edit				{background-position:-16px -48px !important;}		.x-icon-edit:hover				{background-position:-32px -48px !important;}
+.x-icon-delete			{background-position:-16px -64px !important;}		.x-icon-delete:hover			{background-position:-32px -64px !important;}
+.x-icon-copy				{background-position:-16px -80px !important;}		.x-icon-copy:hover				{background-position:-32px -80px !important;}
+.x-icon-paste				{background-position:-16px -96px !important;}		.x-icon-paste:hover				{background-position:-32px -96px !important;}
+.x-icon-save				{background-position:-16px -112px !important;}	.x-icon-save:hover				{background-position:-32px -112px !important;}
+.x-icon-settings		{background-position:-16px -128px !important;}	.x-icon-settings:hover		{background-position:-32px -128px !important;}
+.x-icon-refresh			{background-position:-16px -144px !important;}	.x-icon-refresh:hover			{background-position:-32px -144px !important;}
+.x-icon-reset				{background-position:-16px -160px !important;}	.x-icon-reset:hover				{background-position:-32px -160px !important;}
+.x-icon-print				{background-position:-16px -176px !important;}	.x-icon-print:hover				{background-position:-32px -176px !important;}
+.x-icon-maximize		{background-position:-16px -192px !important;}	.x-icon-maximize:hover		{background-position:-32px -192px !important;}
+.x-icon-restore			{background-position:-16px -208px !important;}	.x-icon-restore:hover			{background-position:-32px -208px !important;}
+.x-icon-minimize		{background-position:-16px -224px !important;}	.x-icon-minimize:hover		{background-position:-32px -224px !important;}
+.x-icon-close				{background-position:-16px -240px !important;}	.x-icon-close:hover				{background-position:-32px -240px !important;}
+.x-icon-access			{background-position:-16px -256px !important;}	.x-icon-access:hover			{background-position:-32px -256px !important;}
+.x-icon-connect			{background-position:-16px -272px !important;}	.x-icon-connect:hover			{background-position:-32px -272px !important;}
+.x-icon-disconnect	{background-position:-16px -288px !important;}	.x-icon-disconnect:hover	{background-position:-32px -288px !important;}
+.x-icon-snapshot		{background-position:-16px -304px !important;}	.x-icon-snapshot:hover		{background-position:-32px -304px !important;}
+.x-icon-image				{background-position:-16px -320px !important;}	.x-icon-image:hover				{background-position:-32px -320px !important;}
+.x-icon-execute			{background-position:-16px -336px !important;}	.x-icon-execute:hover			{background-position:-32px -336px !important;}
+.x-icon-sum					{background-position:-16px -352px !important;}	.x-icon-sum:hover					{background-position:-32px -352px !important;}
+.x-icon-mail				{background-position:-16px -368px !important;}	.x-icon-mail:hover				{background-position:-32px -368px !important;}
+.x-icon-form				{background-position:-16px -384px !important;}	.x-icon-form:hover				{background-position:-32px -384px !important;}
+.x-icon-grid				{background-position:-16px -400px !important;}	.x-icon-grid:hover				{background-position:-32px -400px !important;}
+.x-icon-user				{background-position:-16px -416px !important;}	.x-icon-user:hover				{background-position:-32px -416px !important;}
+.x-icon-usergroup		{background-position:-16px -432px !important;}	.x-icon-usergroup:hover		{background-position:-32px -432px !important;}
+.x-icon-start				{background-position:-16px -448px !important;}	.x-icon-start:hover				{background-position:-32px -448px !important;}
+.x-icon-pause				{background-position:-16px -464px !important;}	.x-icon-pause:hover				{background-position:-32px -464px !important;}
+.x-icon-stop				{background-position:-16px -480px !important;}	.x-icon-stop:hover				{background-position:-32px -480px !important;}
+.x-icon-excel				{background-position:-16px -496px !important;}	.x-icon-excel:hover				{background-position:-32px -496px !important;}
+.x-icon-word				{background-position:-16px -512px !important;}	.x-icon-word:hover				{background-position:-32px -512px !important;}
+.x-icon-pdf					{background-position:-16px -528px !important;}	.x-icon-pdf:hover					{background-position:-32px -528px !important;}
+.x-icon-red					{background-position:-16px -544px !important;}	.x-icon-red:hover					{background-position:-32px -544px !important;}
+.x-icon-yellow			{background-position:-16px -560px !important;}	.x-icon-yellow:hover			{background-position:-32px -560px !important;}
+.x-icon-green				{background-position:-16px -576px !important;}	.x-icon-green:hover				{background-position:-32px -576px !important;}
+.x-icon-calender		{background-position:-16px -592px !important;}	.x-icon-calender:hover		{background-position:-32px -592px !important;}
+.x-icon-terminal		{background-position:-16px -608px !important;}	.x-icon-terminal:hover		{background-position:-32px -608px !important;}
+.x-icon-chartpie		{background-position:-16px -624px !important;}	.x-icon-chartpie:hover		{background-position:-32px -624px !important;}
+.x-icon-chartbar		{background-position:-16px -640px !important;}	.x-icon-chartbar:hover		{background-position:-32px -640px !important;}
+.x-icon-chartline		{background-position:-16px -656px !important;}	.x-icon-chartline:hover		{background-position:-32px -656px !important;}
+.x-icon-chartcurve	{background-position:-16px -672px !important;}	.x-icon-chartcurve:hover	{background-position:-32px -672px !important;}
+.x-icon-organigram	{background-position:-16px -688px !important;}	.x-icon-organigram:hover	{background-position:-32px -688px !important;}
+.x-icon-module			{background-position:-16px -704px !important;}	.x-icon-module:hover			{background-position:-32px -704px !important;}
+.x-icon-coins				{background-position:-16px -720px !important;}	.x-icon-coins:hover				{background-position:-32px -720px !important;}
+.x-icon-money				{background-position:-16px -736px !important;}	.x-icon-money:hover				{background-position:-32px -736px !important;}
+.x-icon-dollar			{background-position:-16px -752px !important;}	.x-icon-dollar:hover			{background-position:-32px -752px !important;}
+.x-icon-euro				{background-position:-16px -768px !important;}	.x-icon-euro:hover				{background-position:-32px -768px !important;}
+
+
+/**************************
+ ***		Notifications		***
+ **************************/
+.x-icon-information {
+	background-image:url('../img/information.png');
+}
+.x-icon-warning {
+	background-image:url('../img/warning.png');
+}
+.x-icon-error {
+	background-image:url('../img/error.png');
+}
+.x-notification .x-window-body {
+ 	padding-top:10px;
+ 	padding-bottom:10px;
+}
+
+/****************************
+ ***		Topmenü-Toolbar		***
+ ***************************/
+
+.app-topmenu-toolbar {
+	padding-top:5px !important;
+	padding-bottom:5px !important;
+}
+/************************************
+ ***		Topmenü Module-Buttons		***
+ ***********************************/
+.app-topmenu-modulebuttons {
+	padding-top:10px;
+	background-color:white !important;
+}
+.app-topmenu-modulebuttons .x-btn-group-ml, .x-btn-group-mr, .x-btn-group-tl, .x-btn-group-tr, .x-btn-group-bl, .x-btn-group-br, .x-btn-group-bc, .x-btn-group-tc{
+	background-image:none !important;
+}
+.app-topmenu-modulebutton {
+	padding-left:5px;
+}
+.app-topmenu-modulebutton .x-btn-text {
+	font-size:	18px !important;
+	height:			20px !important;
+}
+.app-submenu-taskbuttons {
+	background-color:white !important;
+}
+.app-submenu-taskbuttons .x-btn-group-ml, .x-btn-group-mr, .x-btn-group-tl, .x-btn-group-tr, .x-btn-group-bl, .x-btn-group-br, .x-btn-group-bc, .x-btn-group-tc{
+	background-image:none !important;
+}
+.app-submenu-taskbutton {
+	padding-left: 5px;
+}
+.app-submenu-taskbutton .x-btn-text {
+	font-size:	11px !important;
+	height:			14px !important;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+/****************************
+ ***		General Panels		***
+ ***************************/
+.app-whitepanel {
+	background-color:white !important;
+}
+.x-window-dlg .x-window-body {
+	background-color: rgb(244,244,244) !important;
+}
+ 
+
+/****************************
+ ***		Import-Prozess		***
+ ***************************/
+.nocustomer {
+	height:50px;
+	width:80%;
+	margin:auto;
+	margin-top:50px;
+	text-align:center;
+	font-family:tahoma,verdana,arial,sans-serif;
+	font-size:16px;
+}
+ */

@@ -1,0 +1,45 @@
+/* 	margin-bottom:30px; */
+	padding:5px;
+}
+
+.dropzone-clickable {
+	cursor:pointer;
+}
+
+.dropzone-info {
+	padding-top:32px;
+	text-align:center;
+	font-size:16px;
+	font-family:tahoma,verdana,arial,sans-serif;
+}
+
+.dropzone-item {
+	border-bottom: 1px solid #AABBCC;
+	padding: 3px;
+	font-size:11px;
+}
+.dropzone-item-name {
+	width: 55%;
+	float: left;
+	height: 13px;
+	overflow: hidden;
+}
+.dropzone-item-size {
+	width: 40%;
+	text-align: right;
+	float: left;
+	height: 13px;
+}
+.dropzone-item-cancel {
+	width: 100%;
+	height: 13px;
+}
+.dropzone-item-status {
+	width: 100%;
+	margin-top: 3px;
+}
+
+.dropzone-item-error {
+	font-size:11px;
+	color:red;
+}
